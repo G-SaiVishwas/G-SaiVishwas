@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name is Sai Vishwas. .<br>I'm currently a Student studying in Scaler School of Technology. <br>I'm a Github Beginner  
+My Name is Sai Vishwas. <br>I'm currently a Student studying in Scaler School of Technology. <br>I'm a Github Beginner  
 
 
 ## 🌐 Socials:
