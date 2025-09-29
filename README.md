@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name is Sai Vishwas. <br>I'm a Student at Scaler School of Technology. <br>I am exploring the world of open source and aspire to be an impact-creating entrepreneur. 
+My Name is Sai Vishwas. <br>I'm an active open source explorer and contributor<br>I am exploring the world of open source and aspire to be an impact-creating entrepreneur. 
 
 
 ## 🌐 Socials:
