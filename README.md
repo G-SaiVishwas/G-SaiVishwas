@@ -1,6 +1,8 @@
 # 💫 About Me:
 My Name is Sai Vishwas. <br>I'm an active open source explorer and contributor<br>I am exploring the world of open source and aspire to be an impact-creating entrepreneur. 
 
+![Profile views](https://komarev.com/ghpvc/?username=G-SaiVishwas&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saivishwasgooty) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-vishwas-gooty) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saivishwasgooty) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@guidetointernet902) 
