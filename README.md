@@ -31,7 +31,7 @@ const saiVishwas = {
 - 🔭 Exploring the **open source ecosystem**
 - 💡 Building projects that **create impact**
 - 🤝 Always open to **collaboration**
-- 📫 Reach me: **saivishwasgooty@gmail.com**
+- 📫 Reach me: **gootysaivishwas12@gmail.com**
 
 <br clear="right"/>
 
